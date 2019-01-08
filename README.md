@@ -1,4 +1,4 @@
-# terminal_alligator
+# terminal_alligator ver. 1.1
 Alligator - is an custom terminal emulator for windows, written in pure Python by 11 years old developer ! It is also an CLI FTP client, hex dump program, and notepad as well.
 
  I really sorry about all bugs and errors in code, im only a 11 years old, and im just experimenting with python. But, you might be like my terminal emulator :) !
